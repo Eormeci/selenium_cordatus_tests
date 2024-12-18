@@ -1,0 +1,2 @@
+" Function.py her yerden erişilebilir oluyor.
+export PYTHONPATH=/home/openzeka/selenium
