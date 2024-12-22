@@ -1,0 +1,5 @@
+" Function.py her yerden erişilebilir oluyor.
+export PYTHONPATH=/home/openzeka/seleniumv2
+
+Windows için;
+$env:PYTHONPATH = "C:\Users\ormec\Desktop\selenium\selenium_cordatus_tests\seleniumv4"
