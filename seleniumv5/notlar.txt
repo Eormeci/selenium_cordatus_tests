@@ -1,0 +1,8 @@
+" Function.py her yerden erişilebilir oluyor.
+export PYTHONPATH=/home/openzeka/seleniumv2
+
+Windows için;
+$env:PYTHONPATH = "C:\Users\ormec\Desktop\selenium\selenium_cordatus_tests\seleniumv4"
+
+Tagleme kodu;
+docker tag cdcr.dev/cordatus/cordatus-inference-engine:jp512-ds63-v2.3.26  registry.cordata.ai/cordatus/cordatus-inference-engine:jp501-ds63-v2.3.22
